@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../QAMS"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Documents/Projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "System"
+	}
+}
